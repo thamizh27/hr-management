@@ -1,7 +1,0 @@
-// this file should follow main.js
-
-function App() {
-  return <div className="App">hello world</div>;
-}
-
-export default App;
